@@ -30,7 +30,7 @@
 
 * At what percent has Fetch grown year over year?
 
-    Weighted YoY Average Growth: 40.2%
+    Weighted YoY Average User Growth: 40.2%
 
     Assumptions: For this problem, the KPI I am using to define Fetch's growth is total users.  I would have opted for using revenue as the KPI based on FINAL_SALE from transactions, but my EDA from part 1 revealed that purchase and scan dates from transactions only cover 2024.  Additionally, the user table appears more clean and trustworthy than transactions (see part 1).  The caveat to this approach is that I do not have data on user churn, as factoring this in would give me a more accurate metric for total growth.  Therefore, I am assuming that users who create an account remain Fetch's customers up to the present day.  In order to obtain the target KPI, I calculated the cumulative number of users each year, as a non-cumulative total each year would reflect the rate of growth rather than the growth itself (a declining number of new Fetch users doesn't mean the company is shrinking if the previous users have retained; it only means the company is growing at a slower rate).  Then, I calculated a weighted average to account for low sample sizes of users in the beginning years.
 
