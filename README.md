@@ -14,7 +14,7 @@
 
 * The "CATEGORY_x" variables from products are slightly confusing because they are only differentiated by different numbers which don't convey information.  However, looking at the data, it seems clear that the variables are referring to a sub-category which becomes more granular as x increases.  I would rename the columns to "Category", "Sub-Category", "Sub Category 2", "Sub Category 3".
 * I would verify the difference in meaning between the "PURCHASE_DATE" and "SCAN_DATE" in transactions.  It is confusing to me that these two dates are often different in a given row of data because I would expect the customer to purchase the items at approximately the same time items are scanned.  SCAN_DATE is also reported as a datetime whereas PURCHASE_DATE is reported only as a date, so I might request that I also get PURCHASE_DATE as a datetime so I could properly compare the two variables.
-* FINAL_QUANTITY variable: see fourth bullet point of previous section
+* FINAL_QUANTITY variable: see second and fourth bullets point of previous section.
 
 ## Part 2: SQL Queries (see part2.sql for code)
 
