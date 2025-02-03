@@ -38,16 +38,16 @@
 
 Hello Stakeholder,
 
-    I have completed your requested analysis with the goal of understanding Fetch's YoY growth since the first users joined the app in 2014.  
+I have completed your requested analysis with the goal of understanding Fetch's YoY growth since the first users joined the app in 2014.  
     
-    I hoped to use the app's total revenue as a KPI for defining company growth, but I ran into numerous data quality issues.  First, the company's transaction data only includes the year 2024, as I will need a full extract of data going back to 2014 in order to calculate YoY revenue growth.  Furthermore, I have concerns with the cleanliness of the transaction data which I hope to address with the data warehousing team in more detail (there appear to be duplicate entries and field names which I found difficult to interpret).
+I hoped to use the app's total revenue as a KPI for defining company growth, but I ran into numerous data quality issues.  First, the company's transaction data only includes the year 2024, as I will need a full extract of data going back to 2014 in order to calculate YoY revenue growth.  Furthermore, I have concerns with the cleanliness of the transaction data which I hope to address with the data warehousing team in more detail (there appear to be duplicate entries and field names which I found difficult to interpret).
 
-    Despite my difficulties with the data, I used an alternative KPI to measure Fetch's YoY growth, which is the total number of users who created an account on the app.  This KPI shows that Fetch has grown a weighted average of 40.2% per year since 2014.  The highest-growth years took place in the beginning years of the company (ie. 272% growth from 2017-2018), and this growth has consistenly slowed down in more recent years (ie. 13% growth from 2023-2024).  It is worth mentioning that this KPI does not take user churn into account.
+Despite my difficulties with the data, I used an alternative KPI to measure Fetch's YoY growth, which is the total number of users who created an account on the app.  This KPI shows that Fetch has grown a weighted average of 40.2% per year since 2014.  The highest-growth years took place in the beginning years of the company (ie. 272% growth from 2017-2018), and this growth has consistenly slowed down in more recent years (ie. 13% growth from 2023-2024).  It is worth mentioning that this KPI does not take user churn into account.
 
-    For next steps, I will meet with the data warehousing team to discuss my mentioned concerns with the data, and I will request data reflecting the entire history of Fetch's user transactions.  Furthermore, in order to complete a more accurate analysis of Fetch's user growth, I will request churn data which reflects users who deleted their accounts or are no longer active on the app.  I hope to reach out again next week to discuss Fetch's revenue growth as well as net-user growth.  Please reach out if you have any additional analysis requests.  Thank you and have a nice day.
+For next steps, I will meet with the data warehousing team to discuss my mentioned concerns with the data, and I will request data reflecting the entire history of Fetch's user transactions.  Furthermore, in order to complete a more accurate analysis of Fetch's user growth, I will request churn data which reflects users who deleted their accounts or are no longer active on the app.  I hope to reach out again next week to discuss Fetch's revenue growth as well as net-user growth.  Please reach out if you have any additional analysis requests.  Thank you and have a nice day.
 
-    Sincerely,
+Sincerely,
 
-    Ethan Schacht
-    Data Analyst
-    Fetch Rewards Inc
+Ethan Schacht
+Data Analyst
+Fetch Rewards Inc
