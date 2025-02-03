@@ -46,7 +46,7 @@ Despite my difficulties with the data, I used an alternative KPI to measure Fetc
 
 For next steps, I will meet with the data warehousing team to discuss my mentioned concerns with the data, and I will request data reflecting the entire history of Fetch's user transactions.  Furthermore, in order to complete a more accurate analysis of Fetch's user growth, I will request churn data which reflects users who deleted their accounts or are no longer active on the app.  I hope to reach out again next week to discuss Fetch's revenue growth as well as net-user growth.  Please reach out if you have any additional analysis requests.  Thank you and have a nice day.
 
-Sincerely
+Sincerely,
 
 Ethan Schacht
 
