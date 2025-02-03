@@ -49,5 +49,7 @@ For next steps, I will meet with the data warehousing team to discuss my mention
 Sincerely
 
 Ethan Schacht
+
 Data Analyst
+
 Fetch Rewards Inc.
