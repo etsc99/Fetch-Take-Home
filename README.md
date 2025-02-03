@@ -36,7 +36,7 @@
 
 ## Part 3: Communicating With Stakeholders
 
-Hello [Stakeholder],
+Hello Stakeholder,
 
     I have completed your requested analysis with the goal of understanding Fetch's YoY growth since the first users joined the app in 2014.  
     
